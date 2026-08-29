@@ -6,307 +6,367 @@
 
 <br>
 
+<img src="https://komarev.com/ghpvc/?username=Harish-ai-dev&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+
+<br><br>
+
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,fastapi,nodejs,sqlite,git,github&perline=9" />
 
 </div>
 
 ---
 
-<div align="center">
+# 🧠 INTELLIGENCE LAYER
 
-## AI CORE
-
-</div>
-
-```mermaid id="e5n8w2"
+```mermaid id="q2w8m4"
 flowchart TB
-
-    H(("HARISH"))
-
-    H --> CORE(("AI CORE"))
-
-    CORE --> AGENTS["AI AGENTS"]
-    CORE --> MEMORY["MEMORY"]
-    CORE --> TOOLS["TOOLS"]
-    CORE --> DATA["DATA"]
-    CORE --> AUTO["AUTOMATION"]
-
-    AGENTS --> REASON["REASON"]
-    AGENTS --> PLAN["PLAN"]
-    AGENTS --> ACT["ACT"]
-
-    MEMORY --> CONTEXT["CONTEXT"]
-    DATA --> KNOWLEDGE["KNOWLEDGE"]
-
-    TOOLS --> API["APIs"]
-    TOOLS --> SYSTEMS["SYSTEMS"]
-
-    REASON --> INTEL(("INTELLIGENCE"))
-    PLAN --> INTEL
-    ACT --> INTEL
-
-    INTEL --> AUTO
-
-    style H stroke:#58A6FF,stroke-width:4px
-    style CORE stroke:#58A6FF,stroke-width:4px
-    style INTEL stroke:#58A6FF,stroke-width:4px
-    style AUTO stroke:#58A6FF,stroke-width:3px
-```
-
-<div align="center">
-
-**Understand → Reason → Act → Automate**
-
-</div>
-
----
-
-<div align="center">
-
-## SYSTEM FLOW
-
-</div>
-
-```mermaid id="p3k7s1"
-flowchart LR
 
     USER(["USER"])
-    UI["EXPERIENCE"]
-    APP["APPLICATION"]
-    AI["INTELLIGENCE"]
-    AUTO["AUTOMATION"]
+
+    INPUT["INPUT"]
+    UNDERSTAND["UNDERSTAND"]
+    REASON["REASON"]
+    PLAN["PLAN"]
+    EXECUTE["EXECUTE"]
+
+    MEMORY[("MEMORY")]
+    TOOLS["TOOLS"]
+    DATA["DATA"]
+
     RESULT(["RESULT"])
 
-    USER --> UI
-    UI --> APP
-    APP --> AI
-    AI --> AUTO
-    AUTO --> RESULT
+    USER --> INPUT
+    INPUT --> UNDERSTAND
+    UNDERSTAND --> REASON
+    REASON <--> MEMORY
+    REASON --> PLAN
 
-    AUTO -. feedback .-> AI
+    PLAN --> TOOLS
+    TOOLS --> DATA
+    TOOLS --> EXECUTE
 
-    style USER stroke:#58A6FF,stroke-width:3px
-    style AI stroke:#58A6FF,stroke-width:4px
-    style AUTO stroke:#58A6FF,stroke-width:3px
-    style RESULT stroke:#58A6FF,stroke-width:3px
+    DATA --> EXECUTE
+    EXECUTE --> RESULT
+
+    RESULT -. feedback .-> MEMORY
+
+    style REASON stroke:#58A6FF,stroke-width:4px
+    style MEMORY stroke:#58A6FF,stroke-width:3px
+    style EXECUTE stroke:#58A6FF,stroke-width:3px
 ```
-
----
 
 <div align="center">
 
-## PRODUCT ECOSYSTEM
+**Understand · Reason · Plan · Execute · Learn**
 
 </div>
-
-```mermaid id="j8w2q4"
-flowchart TB
-
-    CORE(("CORE"))
-
-    CORE --> P1["SYSTEM 01"]
-    CORE --> P2["SYSTEM 02"]
-    CORE --> P3["SYSTEM 03"]
-    CORE --> P4["SYSTEM 04"]
-    CORE --> P5["SYSTEM 05"]
-    CORE --> P6["SYSTEM 06"]
-
-    P1 --> BUSINESS["BUSINESS"]
-    P2 --> PLATFORM["PLATFORM"]
-    P3 --> AI["AI"]
-    P4 --> ENTERPRISE["ENTERPRISE"]
-    P5 --> WEB["WEB"]
-    P6 --> AUTOMATION["AUTOMATION"]
-
-    BUSINESS --> INTEL(("INTELLIGENCE"))
-    PLATFORM --> INTEL
-    AI --> INTEL
-    ENTERPRISE --> INTEL
-    WEB --> INTEL
-    AUTOMATION --> INTEL
-
-    style CORE stroke:#58A6FF,stroke-width:4px
-    style INTEL stroke:#58A6FF,stroke-width:4px
-```
 
 ---
 
-<div align="center">
+# 🌐 SYSTEM DESIGN
 
-## AI AGENT ENGINE
-
-</div>
-
-```mermaid id="c1r6x8"
+```mermaid id="e7k3p9"
 flowchart LR
 
-    INPUT(["INPUT"])
-    PERCEPTION["PERCEPTION"]
-    REASONING["REASONING"]
+    EXPERIENCE["USER EXPERIENCE"]
+    FRONTEND["FRONTEND"]
+    API["API LAYER"]
+    SERVICES["SERVICES"]
+    INTELLIGENCE["AI / LOGIC"]
+    DATA[("DATA")]
+    AUTOMATION["AUTOMATION"]
+
+    EXPERIENCE --> FRONTEND
+    FRONTEND --> API
+    API --> SERVICES
+
+    SERVICES --> INTELLIGENCE
+    SERVICES --> DATA
+
+    INTELLIGENCE --> DATA
+    INTELLIGENCE --> AUTOMATION
+    AUTOMATION --> SERVICES
+
+    style EXPERIENCE stroke:#58A6FF,stroke-width:2px
+    style INTELLIGENCE stroke:#58A6FF,stroke-width:4px
+    style AUTOMATION stroke:#58A6FF,stroke-width:3px
+```
+
+---
+
+# ⚡ THE BUILD LOOP
+
+```mermaid id="r4n8s2"
+flowchart LR
+
+    A(("IDEA"))
+    B["RESEARCH"]
+    C["DESIGN"]
+    D["BUILD"]
+    E["EXPERIMENT"]
+    F["TEST"]
+    G(("SHIP"))
+    H["OBSERVE"]
+    I["IMPROVE"]
+
+    A --> B --> C --> D --> E --> F --> G --> H --> I
+    I --> A
+
+    style A stroke:#58A6FF,stroke-width:4px
+    style D stroke:#58A6FF,stroke-width:4px
+    style G stroke:#58A6FF,stroke-width:4px
+    style I stroke:#58A6FF,stroke-width:3px
+```
+
+<div align="center">
+
+### IDEAS BECOME SYSTEMS THROUGH ITERATION.
+
+</div>
+
+---
+
+# 🧩 PRODUCT ARCHITECTURE
+
+```mermaid id="h6q1z5"
+flowchart TB
+
+    PRODUCTS["PRODUCTS"]
+
+    PRODUCTS --> BUSINESS["BUSINESS SYSTEMS"]
+    PRODUCTS --> AI["AI SYSTEMS"]
+    PRODUCTS --> WEB["WEB SYSTEMS"]
+    PRODUCTS --> DATA["DATA SYSTEMS"]
+
+    BUSINESS --> ERP["OPERATIONS"]
+    BUSINESS --> FINANCE["FINANCE"]
+    BUSINESS --> WORKFLOW["WORKFLOWS"]
+
+    AI --> AGENTS["AGENTS"]
+    AI --> LLM["LLM APPLICATIONS"]
+    AI --> AUTOMATION["INTELLIGENT AUTOMATION"]
+
+    WEB --> APPLICATIONS["APPLICATIONS"]
+    WEB --> PLATFORMS["PLATFORMS"]
+    WEB --> ECOMMERCE["E-COMMERCE"]
+
+    DATA --> ANALYTICS["ANALYTICS"]
+    DATA --> INSIGHTS["INSIGHTS"]
+
+    style PRODUCTS stroke:#58A6FF,stroke-width:4px
+    style AI stroke:#58A6FF,stroke-width:3px
+    style AUTOMATION stroke:#58A6FF,stroke-width:3px
+```
+
+---
+
+# 🤖 AGENT ARCHITECTURE
+
+```mermaid id="z7m3c8"
+flowchart LR
+
+    EVENT(["EVENT"])
+
+    OBSERVE["OBSERVE"]
+    CONTEXT["CONTEXT"]
     MEMORY[("MEMORY")]
-    PLANNER["PLANNER"]
-    TOOLS["TOOLS"]
+    THINK["THINK"]
+    PLAN["PLAN"]
+    TOOL["TOOL USE"]
     ACTION["ACTION"]
 
-    INPUT --> PERCEPTION
-    PERCEPTION --> REASONING
-    REASONING <--> MEMORY
-    REASONING --> PLANNER
-    PLANNER --> TOOLS
-    TOOLS --> ACTION
-    ACTION -. LEARN .-> MEMORY
+    EVENT --> OBSERVE
+    OBSERVE --> CONTEXT
+    CONTEXT --> THINK
 
-    style INPUT stroke:#58A6FF,stroke-width:3px
-    style REASONING stroke:#58A6FF,stroke-width:4px
+    THINK <--> MEMORY
+    THINK --> PLAN
+    PLAN --> TOOL
+    TOOL --> ACTION
+
+    ACTION -. new context .-> MEMORY
+
+    style THINK stroke:#58A6FF,stroke-width:4px
     style MEMORY stroke:#58A6FF,stroke-width:3px
     style ACTION stroke:#58A6FF,stroke-width:3px
 ```
 
 <div align="center">
 
-`PERCEIVE` · `REASON` · `REMEMBER` · `PLAN` · `ACT`
+`OBSERVE` → `CONTEXT` → `THINK` → `PLAN` → `TOOLS` → `ACTION`
 
 </div>
 
 ---
 
-<div align="center">
+# 🔄 AUTOMATION FLOW
 
-## BUSINESS INTELLIGENCE
-
-</div>
-
-```mermaid id="x4m9k2"
+```mermaid id="n9x2v6"
 flowchart LR
 
-    INPUT["BUSINESS DATA"]
+    TRIGGER(["TRIGGER"])
     PROCESS["PROCESS"]
-    DATA["STRUCTURED DATA"]
-    AI["AI"]
-    DECISION["DECISION"]
-    ACTION["AUTOMATED ACTION"]
+    DECISION{"DECISION"}
+    ACTION["ACTION"]
+    MONITOR["MONITOR"]
 
-    INPUT --> PROCESS
-    PROCESS --> DATA
-    DATA --> AI
-    AI --> DECISION
-    DECISION --> ACTION
+    TRIGGER --> PROCESS
+    PROCESS --> DECISION
 
-    style DATA stroke:#58A6FF,stroke-width:3px
-    style AI stroke:#58A6FF,stroke-width:4px
-    style ACTION stroke:#58A6FF,stroke-width:4px
+    DECISION -->|YES| ACTION
+    DECISION -->|NO| PROCESS
+
+    ACTION --> MONITOR
+    MONITOR -. feedback .-> PROCESS
+
+    style DECISION stroke:#58A6FF,stroke-width:3px
+    style ACTION stroke:#58A6FF,stroke-width:3px
 ```
 
 ---
 
-<div align="center">
-
-## BUILD ENGINE
-
-</div>
-
-```mermaid id="k7p2v5"
-flowchart LR
-
-    IDEA(("IDEA"))
-    DESIGN["DESIGN"]
-    BUILD["BUILD"]
-    EXPERIMENT["EXPERIMENT"]
-    TEST["TEST"]
-    SHIP(("SHIP"))
-    OBSERVE["OBSERVE"]
-    EVOLVE["EVOLVE"]
-
-    IDEA --> DESIGN
-    DESIGN --> BUILD
-    BUILD --> EXPERIMENT
-    EXPERIMENT --> TEST
-    TEST --> SHIP
-    SHIP --> OBSERVE
-    OBSERVE --> EVOLVE
-    EVOLVE --> IDEA
-
-    style IDEA stroke:#58A6FF,stroke-width:4px
-    style BUILD stroke:#58A6FF,stroke-width:4px
-    style SHIP stroke:#58A6FF,stroke-width:4px
-    style EVOLVE stroke:#58A6FF,stroke-width:3px
-```
+# 💻 TECHNOLOGY STACK
 
 <div align="center">
 
-### CREATE · EXPERIMENT · SHIP · EVOLVE
+## 🐍 PYTHON
+
+<img src="https://skillicons.dev/icons?i=python" width="70"/>
+
+**AI · Backend · Automation · Data**
+
+Python is a core language for building backend services, AI applications, automation workflows and data-driven systems.
+
+---
+
+## ⚛️ REACT
+
+<img src="https://skillicons.dev/icons?i=react" width="70"/>
+
+**Frontend · Interfaces · Applications**
+
+Used to create responsive, component-driven interfaces and modern web applications.
+
+---
+
+## 🔷 TYPESCRIPT
+
+<img src="https://skillicons.dev/icons?i=typescript" width="70"/>
+
+**Application Architecture · Type Safety · Large Systems**
+
+Used when building structured, scalable frontend and application systems where maintainability matters.
+
+---
+
+## 🟨 JAVASCRIPT
+
+<img src="https://skillicons.dev/icons?i=javascript" width="70"/>
+
+**Web Logic · Interaction · Application Development**
+
+Used across web applications, frontend functionality and application-level logic.
+
+---
+
+## ⚡ FASTAPI
+
+<img src="https://skillicons.dev/icons?i=fastapi" width="70"/>
+
+**APIs · Backend Services · High-Performance Applications**
+
+Used to build clean Python APIs and connect frontend applications with backend services and data.
+
+---
+
+## 🟢 NODE.JS
+
+<img src="https://skillicons.dev/icons?i=nodejs" width="70"/>
+
+**Server-Side JavaScript · APIs · Tooling**
+
+Useful for application services, integrations, automation and JavaScript-based backend workflows.
+
+---
+
+## 🗄️ SQLITE
+
+<img src="https://skillicons.dev/icons?i=sqlite" width="70"/>
+
+**Application Data · Local Systems · Prototyping**
+
+Used for lightweight application databases and business-focused software.
+
+---
+
+## 📊 DATA & ANALYTICS
+
+`Python` · `Jupyter` · `Data Analysis` · `Visualization`
+
+Building data workflows that transform raw information into useful insights.
+
+---
+
+## 🔧 ENGINEERING TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+**Version Control · Collaboration · Development**
 
 </div>
 
 ---
 
-<div align="center">
+# 🏗️ APPLICATION LAYERS
 
-## ENGINEERING
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,fastapi,nodejs,sqlite,git,github,vscode&perline=10" />
-
-<br><br>
-
-`AI` · `FULL STACK` · `BACKEND` · `AUTOMATION` · `DATA` · `SYSTEMS`
-
-</div>
-
----
-
-<div align="center">
-
-## ARCHITECTURE
-
-</div>
-
-```mermaid id="n3f7q1"
+```mermaid id="s4k8q2"
 flowchart TB
 
-    FRONT["FRONTEND"]
-    API["API"]
-    LOGIC["BUSINESS LOGIC"]
-    AI["AI ENGINE"]
-    DATA[("DATA")]
-    AUTO["AUTOMATION"]
+    UI["USER INTERFACE"]
+    APP["APPLICATION LOGIC"]
+    API["BACKEND / APIs"]
+    AI["INTELLIGENCE"]
+    DATA["DATA"]
+    AUTOMATION["AUTOMATION"]
 
-    FRONT --> API
-    API --> LOGIC
-    LOGIC --> AI
-    LOGIC --> DATA
+    UI --> APP
+    APP --> API
+    API --> AI
+    API --> DATA
+
     AI --> DATA
-    AI --> AUTO
-    AUTO --> API
+    AI --> AUTOMATION
 
-    style FRONT stroke:#58A6FF,stroke-width:2px
+    AUTOMATION --> API
+
+    style UI stroke:#58A6FF,stroke-width:2px
     style AI stroke:#58A6FF,stroke-width:4px
-    style AUTO stroke:#58A6FF,stroke-width:3px
-    style DATA stroke:#58A6FF,stroke-width:2px
+    style AUTOMATION stroke:#58A6FF,stroke-width:3px
 ```
 
 ---
 
+# 📊 ENGINEERING SIGNAL
+
 <div align="center">
 
-## GITHUB TELEMETRY
-
-<img src="https://github-readme-stats.vercel.app/api?username=Harish-ai-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Harish-ai-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-ai-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-ai-dev&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Harish-ai-dev&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Harish-ai-dev&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-<div align="center">
+# 🐍 CONTRIBUTION SIGNAL
 
-## ACTIVITY
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/Harish-ai-dev/Harish-ai-dev/output/github-contribution-grid-snake-dark.svg" />
 
@@ -314,26 +374,25 @@ flowchart TB
 
 ---
 
-<div align="center">
+# 🔮 NEXT
 
-## NEXT
-
-</div>
-
-```mermaid id="t5x8m3"
+```mermaid id="v6p2m8"
 flowchart LR
 
-    SOFTWARE["SOFTWARE"]
+    CODE["CODE"]
+    SYSTEMS["SYSTEMS"]
     AUTOMATION["AUTOMATION"]
     INTELLIGENCE["INTELLIGENCE"]
     AGENTS["AI AGENTS"]
     AUTONOMY["AUTONOMOUS SYSTEMS"]
 
-    SOFTWARE --> AUTOMATION
+    CODE --> SYSTEMS
+    SYSTEMS --> AUTOMATION
     AUTOMATION --> INTELLIGENCE
     INTELLIGENCE --> AGENTS
     AGENTS --> AUTONOMY
 
+    style SYSTEMS stroke:#58A6FF,stroke-width:3px
     style INTELLIGENCE stroke:#58A6FF,stroke-width:4px
     style AGENTS stroke:#58A6FF,stroke-width:4px
     style AUTONOMY stroke:#58A6FF,stroke-width:4px
@@ -341,16 +400,16 @@ flowchart LR
 
 <div align="center">
 
-### Building systems that **understand → decide → act**
+### BUILD → CONNECT → INTELLIGENCE → AUTOMATE → EVOLVE
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Build.;Connect.;Automate.;Add+Intelligence.;Evolve." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Build+systems+that+understand.;Build+systems+that+act.;Build+systems+that+scale." />
 
 <br><br>
 
 # HARISH
 
-`AI` · `SOFTWARE` · `AUTOMATION` · `SYSTEMS`
+**AI · SOFTWARE · AUTOMATION · SYSTEMS**
 
 </div>
