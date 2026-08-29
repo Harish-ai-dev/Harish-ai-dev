@@ -1,213 +1,165 @@
 <div align="center">
 
-# HARISH
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,30:4f46e5,60:7c3aed,100:c026d3&height=200&section=header&text=Harish-Kumar&fontSize=64&fontColor=ffffff&fontAlign=50&fontAlignY=55&stroke=ffffff&strokeWidth=1" width="100%" alt="Harish"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2200&pause=800&color=58A6FF&center=true&vCenter=true&width=820&lines=AI+Developer;Full-Stack+Engineer;AI+Agent+Builder;Product+%26+Systems+Engineer;Building+Intelligent+Software" alt="HARISH"/>
+</div>
 
-<br/><br/>
+<br>
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,fastapi,nodejs,sqlite,git,github&perline=9" alt="Core technologies"/>
+<div align="center">
 
-<br/><br/>
+## 👨‍💻 AI / ML Developer
 
-<img src="https://komarev.com/ghpvc/?username=Harish-ai-dev&label=PROFILE%20VIEWS&style=flat-square" alt="Profile views"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+AI-powered+systems;Exploring+Machine+Learning;Learning+Deep+Learning+%26+LLMs;Turning+ideas+into+projects" alt="Typing animation"/>
 
 </div>
 
 ---
 
-## AI CORE
+## 👋 About Me
 
-<div align="center">
-<img src="./assets/ai-core.svg" width="900" alt="Animated AI core architecture"/>
-</div>
+Hi, I'm **Harish**.
 
-<div align="center">
+I'm an aspiring **AI / ML Developer** who enjoys building practical projects and exploring how intelligent systems work.
 
-**AI · DATA · TOOLS · MEMORY · AUTOMATION · SYSTEMS**
-
-</div>
-
----
-
-## ENGINEERING MODEL
-
-I build end-to-end systems across **product interfaces, application logic, APIs, data, AI and automation**.
-
-> **Turn real problems into reliable software — then add intelligence where it creates leverage.**
+- 🔭 Currently building **AI & Machine Learning projects**
+- 🌱 Learning **Deep Learning, LLMs & Generative AI**
+- 👁️ Interested in **Computer Vision**
+- 🐍 Mainly working with **Python**
+- 💡 I learn best by **building real projects**
+- 🤝 Open to collaborating on interesting projects
+- ⚡ Fun fact: I fix one bug and somehow create two more 😄
 
 ---
 
-## AGENT LOOP
-
-```mermaid
-flowchart LR
-    INPUT([INPUT]) --> CONTEXT[CONTEXT]
-    CONTEXT --> REASON[REASON]
-    REASON <--> MEMORY[(MEMORY)]
-    REASON --> PLAN[PLAN]
-    PLAN --> TOOLS[TOOLS]
-    TOOLS --> ACTION[ACTION]
-    ACTION -. LEARN .-> MEMORY
-
-    style REASON stroke:#58a6ff,stroke-width:4px
-    style MEMORY stroke:#a371f7,stroke-width:3px
-    style ACTION stroke:#58a6ff,stroke-width:3px
-```
+## 🧠 What I'm Interested In
 
 <div align="center">
 
-**Observe → Context → Reason → Plan → Tools → Act → Learn**
+🤖 **Artificial Intelligence** &nbsp;&nbsp; • &nbsp;&nbsp;
+🧠 **Machine Learning** &nbsp;&nbsp; • &nbsp;&nbsp;
+👁️ **Computer Vision**
+
+<br><br>
+
+💬 **LLMs** &nbsp;&nbsp; • &nbsp;&nbsp;
+✨ **Generative AI** &nbsp;&nbsp; • &nbsp;&nbsp;
+⚙️ **AI Applications**
 
 </div>
 
 ---
 
-## BUILD ENGINE
-
-<div align="center">
-<img src="./assets/build-loop.svg" width="900" alt="Animated software build loop"/>
-</div>
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### IDEA → DESIGN → BUILD → TEST → SHIP → OBSERVE → IMPROVE
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,js,git,docker,linux,vscode&theme=dark" alt="Tech Stack"/>
 
 </div>
 
----
+### 💻 Main Technologies
 
-## TECHNOLOGY
-
-| Layer | Technologies | Role |
-|---|---|---|
-| **AI & Data** | Python · Jupyter | AI applications, automation, analysis and data workflows |
-| **Frontend** | React · TypeScript · JavaScript | Interfaces, product UX and scalable web applications |
-| **Backend** | Python · FastAPI · Node.js | APIs, services, business logic and integrations |
-| **Data** | SQLite · Python tooling | Application persistence, structured data and analytics |
-| **Web** | HTML · CSS · JavaScript | Web foundations and browser experiences |
-| **Engineering** | Git · GitHub · VS Code | Version control, collaboration and development |
+| Category | Technologies |
+|:---|:---|
+| 🐍 Programming | Python, C++, JavaScript |
+| 🤖 AI / ML | PyTorch, TensorFlow |
+| 👁️ Computer Vision | OpenCV |
+| 🔧 Tools | Git, Docker, VS Code |
+| 🐧 Environment | Linux |
 
 ---
 
-## SYSTEM ARCHITECTURE
-
-```mermaid
-flowchart TB
-    UI[USER EXPERIENCE]
-    APP[APPLICATION]
-    API[API / SERVICES]
-    DATA[(DATA)]
-    AI[AI ENGINE]
-    AUTO[AUTOMATION]
-
-    UI --> APP
-    APP --> API
-    API --> DATA
-    API --> AI
-    AI --> DATA
-    AI --> AUTO
-    AUTO --> API
-
-    style AI stroke:#58a6ff,stroke-width:4px
-    style AUTO stroke:#a371f7,stroke-width:3px
-    style DATA stroke:#58a6ff,stroke-width:2px
-```
-
----
-
-## ENGINEERING PRINCIPLES
+## 📚 Currently Learning
 
 <div align="center">
 
-**Architecture** · Clear boundaries and reusable systems  
-**AI** · Intelligence where it creates practical value  
-**Automation** · Reliable workflows for repetitive work  
-**Data** · Convert information into useful signals  
-**UX** · Keep complex systems understandable  
-**Iteration** · Build → observe → improve  
-**Engineering** · Maintainability over unnecessary complexity
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Deep+Learning;Large+Language+Models;Generative+AI;Computer+Vision;AI+Model+Deployment" alt="Currently Learning"/>
 
 </div>
 
 ---
 
-## LIVE GITHUB TELEMETRY
+## 🚀 Projects
 
-> These panels read your GitHub profile dynamically. They update as your repositories, languages, commits and contribution history change.
+I enjoy building projects that combine **software development and AI**.
+
+### 🤖 AI Applications
+Building practical applications powered by machine learning and AI.
+
+### 🧠 Machine Learning
+Experimenting with models, datasets, training, and evaluation.
+
+### 👁️ Computer Vision
+Working with image processing and computer vision using OpenCV.
+
+### 💬 LLM Applications
+Exploring how large language models can be used to build useful tools.
+
+> 🚧 More projects are coming soon...
+
+---
+
+## 🎯 Goals
+
+- 🚀 Build useful real-world AI applications
+- 🧠 Become stronger in Machine Learning
+- 💬 Understand LLMs deeply
+- 👁️ Improve Computer Vision skills
+- 🌎 Contribute to open source
+- ⚙️ Learn AI deployment and MLOps
+- 📈 Keep improving every day
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-### PROFILE
+<img src="https://github-readme-stats.vercel.app/api?username=Harish-ai-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harish-ai-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Live GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-ai-dev&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages"/>
 
-<br/>
+</div>
 
-### LANGUAGES
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-ai-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Live language statistics"/>
+<div align="center">
 
-<br/>
-
-### STREAK
-
-<img src="https://streak-stats.demolab.com?user=Harish-ai-dev&theme=tokyonight&hide_border=true" alt="Live GitHub streak"/>
-
-<br/>
-
-### ACTIVITY
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harish-ai-dev&theme=tokyo-night&hide_border=true&area=true&custom_title=HARISH%20%2F%20ACTIVITY" alt="Live GitHub activity graph"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harish-ai-dev&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## CONTRIBUTION FLOW
+## 🐍 Contribution Activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harish-ai-dev/Harish-ai-dev/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harish-ai-dev/Harish-ai-dev/output/github-snake.svg">
-  <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/Harish-ai-dev/Harish-ai-dev/output/github-snake.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Harish-ai-dev/Harish-ai-dev/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake"/>
 
 </div>
 
 ---
 
-## DIRECTION
+## 🤝 Let's Connect
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2600&pause=900&color=A371F7&center=true&vCenter=true&width=720&lines=Software+%E2%86%92+Automation+%E2%86%92+Intelligence;Agents+that+reason%2C+use+tools+and+act;Building+the+next+layer+of+software" alt="Direction"/>
+I'm always interested in **AI, Machine Learning, open source, and interesting projects**.
+
+If you're building something cool, let's connect and build together! 🚀
+
+<br>
+
+### 💜 Build • Learn • Improve • Repeat
 
 </div>
 
-```mermaid
-flowchart LR
-    SOFTWARE[SOFTWARE] --> AUTOMATION[AUTOMATION]
-    AUTOMATION --> INTELLIGENCE[INTELLIGENCE]
-    INTELLIGENCE --> AGENTS[AI AGENTS]
-    AGENTS --> SYSTEMS[INTELLIGENT SYSTEMS]
-
-    style INTELLIGENCE stroke:#58a6ff,stroke-width:4px
-    style AGENTS stroke:#a371f7,stroke-width:4px
-    style SYSTEMS stroke:#58a6ff,stroke-width:4px
-```
-
----
+<br>
 
 <div align="center">
 
-# HARISH
-
-**AI · SOFTWARE · AUTOMATION · SYSTEMS**
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Build.;Connect.;Automate.;Evolve." alt="Closing animation"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c026d3,50:7c3aed,100:312e81&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
