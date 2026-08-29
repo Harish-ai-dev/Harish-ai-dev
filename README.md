@@ -1,265 +1,506 @@
-# 👋 Hey, I'm Harish
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Developer+%7C+Full-Stack+Engineer;Building+Business+Software+%26+AI+Systems;From+Ideas+to+Production;Always+Building.+Always+Learning." alt="Typing SVG" />
-</p>
+<!--                         HARISH                                 -->
 
-<p align="center">
-  <a href="https://github.com/Harish-ai-dev">
-    <img src="https://img.shields.io/badge/GitHub-Harish--ai--dev-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+# ⚡ HARISH
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+Developer;Full-Stack+Engineer;AI+Agent+Builder;Software+%26+Automation+Engineer;Building+Real-World+Systems;Turning+Ideas+Into+Products+%F0%9F%9A%80" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Harish-ai-dev&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" />
+
+<br><br>
+
+<a href="https://github.com/Harish-ai-dev">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/Harish-ai-dev?tab=repositories">
+<img src="https://img.shields.io/badge/PROJECTS-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 🧠 Who Am I?
-
-I'm **Harish**, an **AI-focused full-stack developer and product builder**.
-
-I build software that connects **AI, automation, business workflows, web applications, and data** — with a focus on turning real-world problems into usable products.
-
-My work spans from **business management software and ERP systems** to **AI agents, websites, e-commerce platforms, analytics tools, and internal automation systems**.
-
-> **I don't just build projects. I build systems that solve problems.**
-
----
-
-## ⚡ What I Build
+# 🧠 ABOUT ME
 
 ```text
-                    ┌─────────────────────┐
-                    │       HARISH        │
-                    │     AI + SOFTWARE   │
-                    └──────────┬──────────┘
-                               │
-        ┌──────────────────────┼──────────────────────┐
-        │                      │                      │
-        ▼                      ▼                      ▼
-   🤖 AI SYSTEMS          💼 BUSINESS             🌐 DIGITAL
-                           SOFTWARE
-        │                      │                      │
-   AI Agents              ERP Systems            Websites
-   AI Automation           Accounting             E-Commerce
-   LLM Apps                Quotations             Web Apps
-   Intelligent Tools       Invoicing              Platforms
-        │                      │                      │
-        └──────────────────────┼──────────────────────┘
+┌───────────────────────────────────────────────────────────────┐
+│                                                               │
+│                         H A R I S H                           │
+│                                                               │
+│   AI Developer        Full-Stack Engineer      Builder       │
+│                                                               │
+│   I build intelligent software, automation systems,           │
+│   business platforms, AI agents and real-world products.      │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+```
+
+I'm **HARISH** — a developer focused on building **AI systems, full-stack applications, automation and business software**.
+
+I like working across the entire lifecycle:
+
+**Idea → Architecture → Development → AI → Automation → Deployment**
+
+> 🚀 **Build things that solve real problems.**
+
+---
+
+# 🤖 AI SYSTEM
+
+```text
+                         ┌─────────────────┐
+                         │      HUMAN      │
+                         └────────┬────────┘
+                                  │
+                                  ▼
+                    ┌─────────────────────────┐
+                    │       INTERFACE         │
+                    │     Web • Chat • API    │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │       🧠 AI AGENT        │
+                    │                         │
+                    │  THINK → PLAN → ACT     │
+                    └────────────┬────────────┘
+                                 │
+                ┌────────────────┼────────────────┐
+                │                │                │
+                ▼                ▼                ▼
+           ┌─────────┐     ┌─────────┐     ┌─────────┐
+           │ MEMORY  │     │  TOOLS  │     │   APIs  │
+           └────┬────┘     └────┬────┘     └────┬────┘
+                │               │               │
+                └───────────────┼───────────────┘
+                                ▼
+                     ┌────────────────────┐
+                     │   ⚙️ AUTOMATION    │
+                     └─────────┬──────────┘
                                │
                                ▼
-                       🚀 REAL PRODUCTS
+                     ┌────────────────────┐
+                     │   REAL-WORLD       │
+                     │      ACTION        │
+                     └────────────────────┘
 ```
 
 ---
 
-## 🚀 My Project Ecosystem
-
-I'm building across multiple product categories rather than focusing on a single type of application.
-
-### 💼 Business Software
-
-* Quotation & invoice management
-* Accounting workflows
-* ERP systems
-* Business automation
-* Internal management tools
-
-### 🤖 AI & Intelligent Systems
-
-* AI agents
-* AI-powered automation
-* LLM-based applications
-* Intelligent business workflows
-* AI developer tools
-
-### 🌐 Web & E-Commerce
-
-* Business websites
-* Modern web applications
-* E-commerce platforms
-* Product showcases
-* Customer-facing systems
-
-### 📊 Data & Analytics
-
-* Data analysis
-* Visualization
-* Business insights
-* Python-based analytics
-* Experimental projects
-
----
-
-# 🏗️ Selected Projects
-
-## 🧾 Quotation Making Software
-
-**Full-stack quotation & invoice management platform**
-
-A professional business application designed to simplify quotation and invoicing workflows.
-
-**Technology**
-
-`React` `JavaScript` `FastAPI` `Python` `SQLite`
-
-🔗 **Repository:**
-https://github.com/Harish-ai-dev/Quatiton-Making-Software
-
----
-
-## 🏢 Business Management Ecosystem
-
-A broader collection of software projects focused on digitizing business operations.
+# 🧬 HOW I BUILD
 
 ```text
+                 ┌─────────────┐
+                 │    IDEA     │
+                 └──────┬──────┘
+                        │
+                        ▼
+                 ┌─────────────┐
+                 │  RESEARCH   │
+                 └──────┬──────┘
+                        │
+                        ▼
+                 ┌─────────────┐
+                 │ ARCHITECTURE│
+                 └──────┬──────┘
+                        │
+                        ▼
+                 ┌─────────────┐
+                 │    BUILD    │
+                 └──────┬──────┘
+                        │
+                        ▼
+                 ┌─────────────┐
+                 │     AI      │
+                 └──────┬──────┘
+                        │
+                        ▼
+                 ┌─────────────┐
+                 │ AUTOMATION  │
+                 └──────┬──────┘
+                        │
+                        ▼
+                 ┌─────────────┐
+                 │    TEST     │
+                 └──────┬──────┘
+                        │
+                        ▼
+                 ┌─────────────┐
+                 │   DEPLOY    │
+                 └──────┬──────┘
+                        │
+                        ▼
+                    🚀 SHIP
+                        │
+                        └──────────► IMPROVE 🔁
+```
+
+---
+
+# 🌌 PROJECT UNIVERSE
+
+My projects cover multiple layers of modern software engineering.
+
+```text
+                              HARISH
+                                │
+             ┌──────────────────┼──────────────────┐
+             │                  │                  │
+             ▼                  ▼                  ▼
+        🤖 AI SYSTEMS      💼 BUSINESS         🌐 DIGITAL
+                              SYSTEMS            PRODUCTS
+             │                  │                  │
+       ┌─────┼─────┐      ┌─────┼─────┐      ┌─────┼─────┐
+       │     │     │      │     │     │      │     │     │
+       ▼     ▼     ▼      ▼     ▼     ▼      ▼     ▼     ▼
+      AI    LLM   Agent   ERP   CRM  Finance Web   SaaS  E-Com
+      Bot   Apps  Tools   │     │     │      │     │     │
+                          │     │     │      │     │     │
+                          └─────┴─────┴──────┴─────┴─────┘
+                                      │
+                                      ▼
+                              ⚡ AUTOMATION
+                                      │
+                                      ▼
+                              🧠 INTELLIGENCE
+```
+
+---
+
+# 🚀 PROJECT LAB
+
+### 🧠 AI & AGENTS
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                     AI LAB                              │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│  🤖 AI Agents                                           │
+│  🧠 Intelligent Automation                              │
+│  🔗 LLM Applications                                    │
+│  ⚙️ Tool-Using Agents                                   │
+│  🔎 Retrieval & Knowledge Systems                       │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+### 💼 BUSINESS SYSTEMS
+
+```text
+Customer
+   │
+   ▼
 Quotation
-    ↓
+   │
+   ▼
+Order
+   │
+   ▼
+Invoice
+   │
+   ▼
 Accounting
-    ↓
+   │
+   ▼
 ERP
-    ↓
-Operations
-    ↓
-Automation
-    ↓
+   │
+   ▼
+Analytics
+   │
+   ▼
 AI
+   │
+   ▼
+Automation ⚡
 ```
 
-The goal is to connect individual business workflows into **intelligent, automated systems**.
-
----
-
-## 🤖 AI Agent Systems
-
-I'm also working on AI-driven systems and agents designed to move beyond simple chat interfaces.
+### 🌐 DIGITAL PRODUCTS
 
 ```text
-User
- │
- ▼
-AI Agent
- │
- ├── Understand
- │
- ├── Reason
- │
- ├── Retrieve Information
- │
- ├── Execute Actions
- │
- └── Return Result
-          │
-          ▼
-      Real Workflow
+        ┌──────────────┐
+        │    WEBSITE   │
+        └──────┬───────┘
+               │
+        ┌──────▼───────┐
+        │   WEB APP    │
+        └──────┬───────┘
+               │
+        ┌──────▼───────┐
+        │    SaaS      │
+        └──────┬───────┘
+               │
+        ┌──────▼───────┐
+        │  E-COMMERCE  │
+        └──────┬───────┘
+               │
+        ┌──────▼───────┐
+        │ AUTOMATION ⚡ │
+        └──────────────┘
 ```
 
 ---
 
-# 🛠️ Technology Stack
+# 🧾 FEATURED PUBLIC PROJECT
+
+## Quotation Making Software
+
+A full-stack quotation and invoice management application.
+
+**Architecture**
+
+```text
+              React Frontend
+                    │
+                    ▼
+              REST API Layer
+                    │
+                    ▼
+              FastAPI Backend
+                    │
+                    ▼
+                SQLite DB
+```
+
+**Stack**
+
+`React` `JavaScript` `Python` `FastAPI` `SQLite`
+
+<a href="https://github.com/Harish-ai-dev/Quatiton-Making-Software">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+# 🏢 PRIVATE PROJECT LAB
+
+> Some of my larger systems are private because they are active products, internal systems, or business projects.
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                    PRIVATE LAB                           │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  ⚡ TOPLINE                                               │
+│  📡 Auracast                                              │
+│  🌐 Vyavastha                                              │
+│  🤖 LifeLine-Agent                                        │
+│  🖥️ Showcase                                               │
+│  📜 Vedavakya                                              │
+│  🧠 AI Systems                                             │
+│  🏢 ERP                                                    │
+│  ⚙️ Exec                                                   │
+│                                                          │
+│                 STATUS: BUILDING 🚧                      │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+---
+
+# ⚙️ TECHNOLOGY MATRIX
+
+<div align="center">
 
 ### Languages
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" />
 
-### Frontend
+### Frameworks & Backend
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,fastapi,nodejs" />
 
-### Backend & Data
+### Data & Tools
 
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python_Backend-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=sqlite,git,github,vscode" />
 
-### Development
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-# 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harish-ai-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-ai-dev&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harish-ai-dev&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🧩 How I Think About Software
+# 🧠 ENGINEERING STACK
 
 ```text
-Problem
-   │
-   ▼
-Understand
-   │
-   ▼
-Design
-   │
-   ▼
-Build
-   │
-   ▼
-Integrate
-   │
-   ▼
-Automate
-   │
-   ▼
-Deploy
-   │
-   ▼
-Improve 🔁
+                    SOFTWARE ENGINEERING
+                           │
+       ┌───────────────────┼───────────────────┐
+       │                   │                   │
+       ▼                   ▼                   ▼
+   FRONTEND             BACKEND               AI
+       │                   │                   │
+   React               Python              Agents
+   TypeScript          FastAPI             LLMs
+   JavaScript          APIs                Automation
+       │                   │                   │
+       └───────────────────┼───────────────────┘
+                           │
+                           ▼
+                       DATABASE
+                           │
+                           ▼
+                      INTEGRATION
+                           │
+                           ▼
+                        DEPLOY
 ```
-
-I care about more than making an application work.
-
-I care about building systems that are:
-
-* ⚡ Fast
-* 🧩 Maintainable
-* 🔐 Secure
-* 📈 Scalable
-* 🤖 Intelligent
-* 🎯 Practical
-* 👨‍💻 Developer-friendly
 
 ---
 
-# 🔭 Current Direction
+# 📡 SYSTEM STATUS
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                    HARISH // STATUS                      ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  AI ENGINEERING       ████████████████████  ACTIVE       ║
+║  FULL-STACK           ████████████████████  ACTIVE       ║
+║  AI AGENTS            ██████████████████░░  BUILDING      ║
+║  AUTOMATION           ███████████████████░  ACTIVE       ║
+║  BUSINESS SOFTWARE    ████████████████████  ACTIVE       ║
+║  EXPERIMENTATION      ████████████████████  ACTIVE       ║
+║                                                          ║
+║  SYSTEM STATUS: ONLINE ●                                 ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+---
+
+# 📊 GITHUB TELEMETRY
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Harish-ai-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-ai-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Harish-ai-dev&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 CONTRIBUTION ACTIVITY
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Harish-ai-dev/Harish-ai-dev/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</p>
+
+---
+
+# 🔭 CURRENT MISSION
+
+```text
+                    ┌─────────────────┐
+                    │    CURRENTLY    │
+                    │     BUILDING    │
+                    └────────┬────────┘
+                             │
+             ┌───────────────┼───────────────┐
+             ▼               ▼               ▼
+          🤖 AI           ⚙️ AGENTS       💼 SaaS
+             │               │               │
+             └───────────────┼───────────────┘
+                             ▼
+                       AUTOMATION
+                             │
+                             ▼
+                    REAL-WORLD SYSTEMS
+```
+
+I'm focused on building software where **AI doesn't just answer questions — it can understand context, use tools, execute workflows and automate real work.**
+
+---
+
+# 🌍 THE BIGGER VISION
+
+```text
+                  SOFTWARE
+                     │
+                     ▼
+                 AUTOMATION
+                     │
+                     ▼
+                INTELLIGENCE
+                     │
+                     ▼
+                  AI AGENTS
+                     │
+                     ▼
+              AUTONOMOUS SYSTEMS
+                     │
+                     ▼
+                REAL IMPACT 🚀
+```
+
+---
+
+# 🔥 BUILD LOOP
+
+```text
+       IDEA
+        │
+        ▼
+     CREATE
+        │
+        ▼
+     EXPERIMENT
+        │
+        ▼
+      BREAK
+        │
+        ▼
+      DEBUG
+        │
+        ▼
+     IMPROVE
+        │
+        ▼
+       SHIP 🚀
+        │
+        └───────────────► REPEAT 🔁
+```
+
+---
+
+# 👨‍💻 A LITTLE MORE ABOUT ME
 
 ```yaml
-focus:
+name: HARISH
+username: Harish-ai-dev
+
+role:
+  - AI Developer
+  - Full-Stack Engineer
+  - Product Builder
+
+interests:
   - Artificial Intelligence
   - AI Agents
-  - Full-Stack Development
-  - Business Automation
-  - ERP & Accounting Software
+  - Automation
+  - Business Software
+  - ERP Systems
+  - SaaS
   - E-Commerce
-  - SaaS Products
-
-building:
-  - Intelligent business systems
-  - AI-powered applications
-  - Automation workflows
-  - Production-ready web platforms
+  - Web Applications
 
 mindset:
   - Build
@@ -267,57 +508,36 @@ mindset:
   - Experiment
   - Improve
   - Ship
+
+mission:
+  "Turn complex real-world problems into useful software."
 ```
 
 ---
 
-# 📈 The Bigger Vision
+# ⚡ FINAL SIGNAL
 
-I'm interested in the intersection of:
-
-**AI × Business × Automation × Software**
-
-The long-term goal isn't simply to create more applications.
-
-It's to create **connected systems where software can understand a business process, automate repetitive work, and help people make better decisions.**
+<div align="center">
 
 ```text
-                 ┌─────────────┐
-                 │     AI      │
-                 └──────┬──────┘
-                        │
-              ┌─────────▼─────────┐
-              │    Automation     │
-              └─────────┬─────────┘
-                        │
-        ┌───────────────▼───────────────┐
-        │       Business Software       │
-        └───────────────┬───────────────┘
-                        │
-                 ┌──────▼──────┐
-                 │ Real World  │
-                 │   Impact    │
-                 └─────────────┘
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║                     H A R I S H                     ║
+║                                                      ║
+║       AI  •  SOFTWARE  •  AUTOMATION  •  BUILD       ║
+║                                                      ║
+║          BUILD SYSTEMS. SOLVE PROBLEMS.              ║
+║                    SHIP PRODUCTS.                    ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
 
----
+<br>
 
-# 🤝 Let's Connect
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+%F0%9F%91%8B;Keep+building+%F0%9F%9A%80;The+next+system+is+already+loading...+%E2%96%88" />
 
-If you're interested in **AI, software engineering, automation, business technology, or building products**, feel free to connect.
+<br><br>
 
-<p align="center">
-  <a href="https://github.com/Harish-ai-dev">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+**⚡ HARISH — BUILDING THE NEXT SYSTEM.**
 
----
-
-<p align="center">
-  <b>⚡ Build systems. Solve problems. Ship products.</b>
-</p>
-
-<p align="center">
-  <sub>Made by Harish • Harish-ai-dev</sub>
-</p>
+</div>
